@@ -1,0 +1,31 @@
+
+
+name : ishita
+age : 20
+gender: female
+weight : 67.0
+BMI : 24.609733700642796
+
+name : parth
+age : 18
+gender: mzle
+weight : 105.0
+BMI : 33.13975508142911
+
+name : parth
+age : 19
+gender: male
+weight : 85.0
+BMI : 29.411764705882355
+
+name : keerthana
+age : 19
+gender: female
+weight : 55.0
+BMI : 19.721036967980208
+
+name : keerthana
+age : 16
+gender: female
+weight : 55.0
+BMI : 19.721036967980208
